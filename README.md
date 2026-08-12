@@ -1,7 +1,9 @@
 # Brief Intro abt myself
 
 🎓 Undergraduate **Computer Science Student**
+
 💻 Aspiring **Full-Stack Developer**
+
 📍 Penang, Malaysia
 
 I'm a Computer Science student who enjoys building software, solving problems and learning how different technologies work together.
@@ -17,15 +19,19 @@ Currently exploring:
 ### 🛠️ Technologies
 
 Programming Languages:
+
 C++ · C# · Python · JavaScript · PHP · Bash
 
 Web & Frameworks:
+
 HTML5 · CSS3 · ASP.NET · Google Apps Script
 
 Database:
-MySQL · MongoDB · 
+
+MySQL · MongoDB 
 
 Development Tools:
+
 Git · GitHub · Visual Studio · Visual Studio Code · Cursor · SSMS · XAMPP · Figma
 
 ### 🌱 Currently Learning
