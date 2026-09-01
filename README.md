@@ -18,5 +18,5 @@
 
 ### 📬 Connect With Me
 
-* 💼 [LinkedIn](www.linkedin.com/in/amelia-tai-hui-xin)
+* 💼 [LinkedIn](https://www.linkedin.com/in/amelia-tai-hui-xin)
 * ✉️ [Email](mailto:ameliatai10@gmail.com)
