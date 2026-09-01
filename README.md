@@ -1,40 +1,22 @@
-# Brief Intro abt myself
+# Hi there, I'm [Your Name] 👋
 
-🎓 Undergraduate **Computer Science Student**
+🎓 **Computer Science Student** | 📍 Penang, Malaysia  
+💻 Builder passionate about **Full-Stack Development, AI Agents & Automation**.
 
-💻 Aspiring **Full-Stack Developer**
+> *"Learning by building, automating and solving real-world problems one project at a time."*
 
-📍 Penang, Malaysia
+---
 
-I'm a Computer Science student who enjoys building software, solving problems and learning how different technologies work together.
+### 🔨 What I Build & Explore
 
-Currently exploring:
+* 💻 **Full-Stack Software:** Developing end-to-end web apps.
+* 🤖 **AI Agents:** Built customer support agents with **Relevance AI**.
+* 🔄 **Automation:** Engineered data & notification pipelines with **Google Apps Script**.
+* ☁️ **DevOps & Cloud:** Currently exploring **Docker, CI/CD and Cloud fundamentals**.
 
-* ☁️ DevOps & Cloud Computing
-* 🐳 Docker & Containerization
-* 🔄 CI/CD
-* 💻 Software Development
-* 🤖 AI Agent
+---
 
-### 🛠️ Technologies
+### 📬 Connect With Me
 
-Programming Languages:
-
-C++ · C# · Python · JavaScript · PHP · Bash
-
-Web & Frameworks:
-
-HTML5 · CSS3 · ASP.NET · Google Apps Script
-
-Database:
-
-MySQL · MongoDB 
-
-Development Tools:
-
-Git · GitHub · Visual Studio · Visual Studio Code · Cursor · SSMS · XAMPP · Figma
-
-### 🌱 Currently Learning
-
-I'm currently focusing on strengthening my software engineering fundamentals and exploring the world of **DevOps, automation, cloud computing and CI/CD**.
-> *Learning by building, one project at a time.* 🚀
+* 💼 [LinkedIn](www.linkedin.com/in/amelia-tai-hui-xin)
+* ✉️ [Email](mailto:ameliatai10@gmail.com)
